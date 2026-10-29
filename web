@@ -1,0 +1,77 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>krishna Crumbs Bakery</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>krishna Crumbs Bakery</h1>
+    <p>Freshly Baked Happiness Every Day!</p>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="cakes.html">Cakes</a>
+    <a href="pastries.html">Pastries</a>
+    <a href="cookies.html">Cookies</a>
+    <a href="custom-cakes.html">Custom Cakes</a>
+    <a href="offers.html">Offers</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<div class="hero">
+    <h2>Welcome to krishna Crumbs!</h2>
+    <p>Delicious cakes, delightful pastries, and freshly baked cookies.</p>
+    <p>Made with love, baked with happiness.</p>
+    <a class="btn" href="cakes.html">Explore Our Bakery</a>
+    <a class="btn" href="offers.html">View Offers</a>
+</div>
+
+<div class="container">
+    <h2>Our Bakery Specials</h2>
+
+    <div class="products">
+        <div class="card">
+            <img src="C:\Users\DELL\AppData\Local\Temp\Rar$DIa0.095\045811c0-73f8-478c-8015-93bb062a8cb0.jpg">
+            <h3>Chocolate Cake</h3>
+            <p>Rich, creamy chocolate goodness.</p>
+            <p class="price">₹650</p>
+            <a class="btn" href="cakes.html">View Cakes</a>
+        </div>
+
+        <div class="card">
+            <img src="C:\Users\DELL\Downloads\side-view-mix-cookies-with-walnut-chocolate-chips-cottage-cheese-puff-pastry-vanilla-sugar-powder.jpg">
+            <h3>Fresh Pastries</h3>
+            <p>Delicate, soft and delicious.</p>
+            <p class="price">₹100</p>
+            <a class="btn" href="pastries.html">View Pastries</a>
+        </div>
+
+        <div class="card">
+            <img src=" C:\Users\DELL\Downloads\delicious-cookies-arrangement.jpg">
+            <h3>Choco Cookies</h3>
+            <p>Crispy cookies with chocolate chips.</p>
+            <p class="price">₹150</p>
+            <a class="btn" href="cookies.html">View Cookies</a>
+        </div>
+    </div>
+</div>
+
+<div class="container offer">
+    <h2>Seasonal Special!</h2>
+    <p>Celebrate special moments with our delicious bakery treats.</p>
+    <a class="btn" href="offers.html">See All Offers</a>
+</div>
+
+<footer>
+    <p>© 2026 krishna Crumbs Bakery | Baked with Love</p>
+</footer>
+
+</body>
+</html>
